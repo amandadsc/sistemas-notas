@@ -1,1 +1,2 @@
-"# sistemas-notas" 
+# sistemas-notas
+Trabalho acadêmico de CRUD com python
